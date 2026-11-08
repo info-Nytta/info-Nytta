@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Hamarosan írok is ide valamit 👋
 
 <!--
 **info-Nytta/info-Nytta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
